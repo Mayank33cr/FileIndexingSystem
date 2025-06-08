@@ -1,3 +1,19 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
+using System.Threading.Tasks;
 
-Console.WriteLine("Hello, World!");
+namespace Master
+{
+    class Program
+    {
+        static async Task Main(string[] args)
+        {
+            Console.WriteLine("Starting Master...");
+
+            var master = new MasterReceiver();
+            await master.RunAsync();
+
+            Console.WriteLine("Master finished receiving data. Press any key to exit.");
+            Console.ReadKey();
+        }
+    }
+}

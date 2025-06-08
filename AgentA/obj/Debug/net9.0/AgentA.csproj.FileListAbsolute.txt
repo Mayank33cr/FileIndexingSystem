@@ -1,0 +1,15 @@
+/Users/mayank/FileIndexingSolution/AgentA/bin/Debug/net9.0/AgentA
+/Users/mayank/FileIndexingSolution/AgentA/bin/Debug/net9.0/AgentA.deps.json
+/Users/mayank/FileIndexingSolution/AgentA/bin/Debug/net9.0/AgentA.runtimeconfig.json
+/Users/mayank/FileIndexingSolution/AgentA/bin/Debug/net9.0/AgentA.dll
+/Users/mayank/FileIndexingSolution/AgentA/bin/Debug/net9.0/AgentA.pdb
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/AgentA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/AgentA.AssemblyInfoInputs.cache
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/AgentA.AssemblyInfo.cs
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/AgentA.csproj.CoreCompileInputs.cache
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/AgentA.sourcelink.json
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/AgentA.dll
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/refint/AgentA.dll
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/AgentA.pdb
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/AgentA.genruntimeconfig.cache
+/Users/mayank/FileIndexingSolution/AgentA/obj/Debug/net9.0/ref/AgentA.dll

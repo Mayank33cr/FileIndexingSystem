@@ -1,0 +1,15 @@
+/Users/mayank/FileIndexingSolution/Master/bin/Debug/net9.0/Master
+/Users/mayank/FileIndexingSolution/Master/bin/Debug/net9.0/Master.deps.json
+/Users/mayank/FileIndexingSolution/Master/bin/Debug/net9.0/Master.runtimeconfig.json
+/Users/mayank/FileIndexingSolution/Master/bin/Debug/net9.0/Master.dll
+/Users/mayank/FileIndexingSolution/Master/bin/Debug/net9.0/Master.pdb
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/Master.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/Master.AssemblyInfoInputs.cache
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/Master.AssemblyInfo.cs
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/Master.csproj.CoreCompileInputs.cache
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/Master.sourcelink.json
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/Master.dll
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/refint/Master.dll
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/Master.pdb
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/Master.genruntimeconfig.cache
+/Users/mayank/FileIndexingSolution/Master/obj/Debug/net9.0/ref/Master.dll
